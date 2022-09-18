@@ -1,1 +1,1 @@
-Machine learning simple implementations
+Simple implementations of Machine learning algorithms.
