@@ -1,1 +1,1 @@
-# image_compression_by_PCA
+Machine learning simple implementations
